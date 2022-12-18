@@ -17,3 +17,11 @@
     <td><img src="https://github.com/mkmr-software/Construction-and-Management-of-ROS-Based-Mobile-Autonomous-Robot/blob/main/images/ss/ui_joystick_2.jpeg?raw=true" width="500"></td>
   </tr>
 </table>
+
+## Design in SolidWorks Program
+<table>
+  <tr>
+    <td><img src="https://github.com/mkmr-software/mkmr_sw/blob/main/mkmr_sw_img/preview1.JPG?raw=true" width="500"></td>
+    <td><img src="https://github.com/mkmr-software/mkmr_sw/blob/main/mkmr_sw_img/preview2.JPG?raw=true" width="500"></td>
+  </tr>
+</table>
